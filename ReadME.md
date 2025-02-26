@@ -86,11 +86,11 @@ python main.py
 ## **🖥️ Screenshots**
 ### **📌 Home Page**
 ![Home Page](https://github.com/user-attachments/assets/4d2a3df5-8e4b-470f-83e1-b20e9af1170a)
-)  
+ 
 
 ### **📌 Human Review Step**
-![Review Step](//github.com/user-attachments/assets/ac737e15-a815-4272-a113-cd02c408d3f4)  
-)
+![Review Step](https://github.com/user-attachments/assets/35fa987c-2c1f-435f-8481-2721de9f937d)  
+
 ### **📌 Final Results**
 ![Results Page](https://github.com/user-attachments/assets/a156115a-c29e-4b1c-af31-a6744d5b51a6)
 ![Results](https://github.com/user-attachments/assets/5e5587ed-e8c7-4d10-bbe3-ee3ecdf8f331)
