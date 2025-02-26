@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain_groq
+langgraph
+langchain_core
+tiktoken
+requests
+beautifulsoup4
+duckduckgo-search
+fastapi
+uvicorn

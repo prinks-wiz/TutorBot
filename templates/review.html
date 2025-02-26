@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Review AI-Generated Subtopics</title>
+    <style>
+        body {
+            background: linear-gradient(-45deg, #43cea2, #185a9d, #30cfd0, #330867);
+            background-size: 400% 400%;
+            animation: gradientBG 10s ease infinite;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            color: white;
+        }
+
+        @keyframes gradientBG {
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
+        }
+
+        h2 {
+            margin-top: 50px;
+            font-size: 28px;
+        }
+
+        form {
+            margin-top: 20px;
+            display: inline-block;
+            background: rgba(255, 255, 255, 0.1);
+            padding: 20px;
+            border-radius: 10px;
+        }
+
+        label {
+            font-size: 18px;
+            display: block;
+            margin-top: 10px;
+        }
+
+        input {
+            padding: 8px;
+            font-size: 16px;
+            border: none;
+            border-radius: 5px;
+            width: 250px;
+            margin-top: 5px;
+        }
+
+        button {
+            background-color: #ffcc00;
+            color: black;
+            padding: 12px 24px;
+            border: none;
+            border-radius: 5px;
+            font-size: 18px;
+            cursor: pointer;
+            margin-top: 20px;
+            transition: 0.3s;
+        }
+
+        button:hover {
+            background-color: #ffaa00;
+            transform: scale(1.05);
+        }
+    </style>
+</head>
+<body>
+    <h2>👀 Review AI-Generated Subtopics</h2>
+    <form action="/review" method="POST">
+        {% for subtopic, explanation in subtopics.items() %}
+            <label>{{ subtopic }}</label>
+            <input type="text" name="subtopic_{{ subtopic }}" value="{{ explanation }}">
+            <br>
+        {% endfor %}
+        <button type="submit">Confirm & Continue</button>
+    </form>
+</body>
+</html>
