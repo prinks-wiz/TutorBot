@@ -5,8 +5,11 @@ from langchain.agents import AgentType, initialize_agent
 from langchain_community.utilities import GoogleSerperAPIWrapper
 
 # ✅ Manually pass API keys
-GROQ_API_KEY = "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"
-SERPER_API_KEY = "4a28bce5fc691b8f1562dbcef5138525a039d01e"
+
+
+SERPER_API_KEY="your_serper_api_key"
+GROQ_API_KEY="your_groq_api_key"
+
 
 class SummarizerAgent:
     """Breaks down a topic into structured subtopics using Groq LLM"""
