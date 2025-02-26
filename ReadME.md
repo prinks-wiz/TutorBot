@@ -85,11 +85,11 @@ python main.py
 
 ## **🖥️ Screenshots**
 ### **📌 Home Page**
-![Home Page](<img width="1224" alt="Screenshot 2025-02-26 at 10 30 49 AM" src="https://github.com/user-attachments/assets/4d2a3df5-8e4b-470f-83e1-b20e9af1170a" />
+![Home Page](https://github.com/user-attachments/assets/4d2a3df5-8e4b-470f-83e1-b20e9af1170a)
 )  
 
 ### **📌 Human Review Step**
-![Review Step](<img width="1219" alt="image" src="https://github.com/user-attachments/assets/ac737e15-a815-4272-a113-cd02c408d3f4" />
+![Review Step](//github.com/user-attachments/assets/ac737e15-a815-4272-a113-cd02c408d3f4
 )  
 
 ### **📌 Final Results**
