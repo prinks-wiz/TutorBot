@@ -89,12 +89,10 @@ python main.py
 )  
 
 ### **📌 Human Review Step**
-![Review Step](//github.com/user-attachments/assets/ac737e15-a815-4272-a113-cd02c408d3f4
-)  
-
-### **📌 Final Results**
-![Results Page](![Capture-2025-02-26-103130](https://github.com/user-attachments/assets/a156115a-c29e-4b1c-af31-a6744d5b51a6)
+![Review Step](//github.com/user-attachments/assets/ac737e15-a815-4272-a113-cd02c408d3f4)  
 )
+### **📌 Final Results**
+![Results Page](https://github.com/user-attachments/assets/a156115a-c29e-4b1c-af31-a6744d5b51a6)
 ![Results](https://github.com/user-attachments/assets/5e5587ed-e8c7-4d10-bbe3-ee3ecdf8f331)
 
 
@@ -130,7 +128,7 @@ git checkout -b feature-branch
 ---
 
 ## **📜 License**
-MIT License © 2025 [Your Name](https://github.com/yourusername)
+MIT License © 2025 [Priyanka Vijaybaskar](https://github.com/prinkswiz)
 
 ---
 
